@@ -29,7 +29,7 @@ const Add = () => {
     const readValue = () => {
         console.log(input);
 
-        axios.post("http://localhost:3000/add", input)
+        axios.post("http://localhost:3000/add_ev", input)
             .then((response) => {
                 console.log(response.data);
                 alert("Booking Added Successfully!");

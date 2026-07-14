@@ -24,8 +24,8 @@ const View = () => {
     <div className="container mt-4">
       <h3 className="text-center mb-4">EV Charging Bookings</h3>
 
-      <div className="table-responsive">
-        <table className="table table-bordered table-striped table-hover">
+      <div className="table-responsive ">
+        <table className="table table-bordered table-striped table-hover ">
           <thead className="table-dark">
             <tr>
               <th>Booking ID</th>

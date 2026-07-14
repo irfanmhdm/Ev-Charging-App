@@ -42,7 +42,7 @@ const Add = () => {
 
     return (
         <div>
-            <div className="container border border-2 rounded shadow p-5 mt-5 mb-5">
+            <div className="container border border-2 rounded shadow p-5 mt-3 mb-5">
                 <div className="text-center mb-4">
                     <div className="bg-success text-white p-4 rounded shadow">
                         <h1 className="fw-bold mb-1">⚡ EV Charging Booking</h1>
